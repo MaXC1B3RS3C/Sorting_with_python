@@ -1,3 +1,4 @@
+# Llista que es un array de dades JSON
 llista = [
     {'alumne': 'Pepe Botella', 'data_naiximent': '10-02-2005'},
     {'alumne': 'Rafa Nadal', 'data_naiximent': '09-02-2005'},
