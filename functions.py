@@ -4,6 +4,7 @@
 
 
 import dades
+import PySide6
 from datetime import datetime
 
 
