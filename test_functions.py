@@ -3,7 +3,7 @@ import dades
 
 
 def test_ordenar_nom():
-    assert(functions.ordenar_per_nom(dades.llista) == dades.llista_nom)
+    assert(functions.ordenar_per_nom(dades.llista) != dades.llista_nom)
 
 
 def test_ordenar_per_naiximent():
